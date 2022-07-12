@@ -12,6 +12,7 @@ public interface DeptMapper {
      *
      * @mbggenerated Mon Jul 11 17:03:46 CST 2022
      */
+//    int countByExample(DeptExample example);
     int countByExample(DeptExample example);
 
     /**
